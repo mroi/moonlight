@@ -54,8 +54,8 @@
 		4C7E0A7A1FECBFFD00684411 /* Moonlight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moonlight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CD17E9B2733C0FC004D438C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		98AB2E7F1CAD46830089BB98 /* moonlight-common.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "moonlight-common.xcodeproj"; path = "moonlight-common/moonlight-common.xcodeproj"; sourceTree = "<group>"; };
-		A42858432D5066A000E39078 /* FFmpeg.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = FFmpeg.xcframework; path = xcframeworks/FFmpeg.xcframework; sourceTree = "<group>"; };
-		A42858442D5066A000E39078 /* Opus.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = Opus.xcframework; path = xcframeworks/Opus.xcframework; sourceTree = "<group>"; };
+		A42858432D5066A000E39078 /* FFmpeg.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:KHSNQKXT55:Martin Kenny"; lastKnownFileType = wrapper.xcframework; name = FFmpeg.xcframework; path = xcframeworks/FFmpeg.xcframework; sourceTree = "<group>"; };
+		A42858442D5066A000E39078 /* Opus.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:KHSNQKXT55:Martin Kenny"; lastKnownFileType = wrapper.xcframework; name = Opus.xcframework; path = xcframeworks/Opus.xcframework; sourceTree = "<group>"; };
 		A42858452D5066A000E39078 /* SDL2.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:KHSNQKXT55:Martin Kenny"; lastKnownFileType = wrapper.xcframework; name = SDL2.xcframework; path = xcframeworks/SDL2.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -238,7 +238,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 1510;
+				LastUpgradeCheck = 2620;
 				ORGANIZATIONNAME = "Moonlight Game Streaming Project";
 				TargetAttributes = {
 					4C7E0A791FECBFFD00684411 = {
