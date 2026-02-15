@@ -483,6 +483,7 @@
 				HEADER_SEARCH_PATHS = (
 					"moonlight-common-c/enet/include",
 					"../libs/**",
+					include,
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				ONLY_ACTIVE_ARCH = NO;
@@ -501,6 +502,7 @@
 				HEADER_SEARCH_PATHS = (
 					"moonlight-common-c/enet/include",
 					"../libs/**",
+					include,
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				ONLY_ACTIVE_ARCH = NO;
